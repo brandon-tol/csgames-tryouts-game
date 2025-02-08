@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Brandon/CSGAMES-Tryouts-2DP/CSGAMES_Tryouts_2DP/Content/Maps/map_2d.umap",
+				"C:/Users/Brandon/CSGAMES-Tryouts-2DP/CSGAMES_Tryouts_2DP/Content/Materials/Water.uasset",
+				"C:/Users/Brandon/CSGAMES-Tryouts-2DP/CSGAMES_Tryouts_2DP/Content/Blueprints/BP_Water.uasset",
+				"C:/Users/Brandon/CSGAMES-Tryouts-2DP/CSGAMES_Tryouts_2DP/Content/Blueprints/BP_SpriteCharacter.uasset",
+				"C:/Users/Brandon/CSGAMES-Tryouts-2DP/CSGAMES_Tryouts_2DP/Content/Blueprints/BP_Pickup.uasset",
+				"C:/Users/Brandon/CSGAMES-Tryouts-2DP/CSGAMES_Tryouts_2DP/Content/PNG/sprites/cherry/cherry-1_Sprite.uasset",
 				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/Maps/map_2d.umap",
 				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/environment/layers/tileset_TileSet.uasset",
 				"C:/Users/Salah/Documents/Unreal Projects/CSGAMES_Tryouts_2DP/Content/PNG/environment/layers/tileset_TileMap.uasset",
