@@ -1,3 +1,7 @@
+I made a cherry pickup that prints the number of points in Dev mode T-T
+I tried to add water as a bottom of the level that kills the player, but the collisions were buggin :\)
+Tried to give the water a material, but it was also buggin :'\)
+
 # CSGAMES-Tryouts-2DP
 
 This is a simple 2d game using unity's paper2d and sprite systems. You are free to modify it in any way you like for this challenge.
